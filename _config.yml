@@ -1,0 +1,24 @@
+# Site settings
+title: Conversations on Technology
+email: binnur.gul@gmail.com
+description: > # Conversations on Technology as Change
+url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+enable_retina: false
+permalink: :title
+excerpt_separator: <!--more-->
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  Blog : ['Blog', '/blog', 'fa-edit']
+  About : ['About', '/about', 'fa-anchor']
+  #Contact : ['Contact', '/contact', 'fa-plane']
+  Author : ['Author', '/author/binnur', 'fa-user']
+single_footer: '<p>Copyright 2019(C)</p>'
+footer_links:
+    #About: ['About', '/about']
+    #Writer: ['Writer 2016', '/about']
+
+
+# Build settings
+# markdown: kramdown
+host: 0.0.0.0
