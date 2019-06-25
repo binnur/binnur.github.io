@@ -1,7 +1,7 @@
 # Notes on Binnur's github.io structure
 
 ## About the site
-Site uses [Writer Jekyll] (https://themeforest.net/item/writer-a-minimal-blog-for-jekyll/10562560) theme
+Site uses [Writer Jekyll](https://themeforest.net/item/writer-a-minimal-blog-for-jekyll/10562560) theme
 by adventurethemes.com
 
 ## Local development
