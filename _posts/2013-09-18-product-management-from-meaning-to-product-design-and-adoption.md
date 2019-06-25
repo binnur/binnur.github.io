@@ -1,22 +1,21 @@
 ---
-layout: post-no-feature
+layout: post
+title: "Product Management from Meaning to Product Design and Adoption"
 date: 2013-02-11 02:25:09
-categories: products
+categories: product-management
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
 show_avatar : true
-read_time : 22
+read_time : 10
 feature_image: feature-water
-show_related_posts: false
+show_related_posts: true
 square_related: recommend-iceland
 ---
-excerpt: Exploring the intricate relationship between function, perception and
+Exploring the intricate relationship between function, perception and
 meaning. Applying these to the challenges for product managers to effectively
 design and position the technological product for successful adoption.
 <!--more-->
-
-[![Untitled]({{ site.baseurl }}/assets/9500022286_5390562543_z.jpg)](http://www.flickr.com/photos/binnur_gul/9500022286/ "Untitled by binnur gul, on Flickr")
 
 > “If we can discover the meaning in the trilling of a frog, perhaps we may understand why it is for us not merely noise but a song of poetry and emotion.” — Adrian Forsyth
 

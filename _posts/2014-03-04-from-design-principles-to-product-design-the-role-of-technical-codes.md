@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-03-04 09:30:07
-title: "Exploring Technical Code and Critical Theory of Technology"
+title: "From Design Principles to Product Design: The Role of Technical Codes"
 categories: philosophy
 author_name : binnur
 author_url : /author/binnur

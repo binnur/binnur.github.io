@@ -1,7 +1,8 @@
 ---
 layout: post-no-feature
+title: "Collection of Frameworks and Processes for Product and Technology Management"
 date: 2013-02-11 02:25:09
-categories: products
+categories: product-management
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
@@ -11,9 +12,9 @@ feature_image: feature-water
 show_related_posts: false
 square_related: recommend-iceland
 ---
-Excerpt: There are numerous frameworks, processes and tools that are used in the
+There are numerous frameworks, processes and tools that are used in the
 domain of product and technology management. These are just a small subset which
-are applicable as a background to my articles. 
+are applicable as a background to my articles.
 <!--more-->
 
 There are numerous frameworks, processes and tools that are used in the domain of product and technology management. These are just a small subset which are applicable as a background to my articles.
@@ -28,7 +29,7 @@ There are numerous frameworks, processes and tools that are used in the domain o
 
 ### Porter's Five Forces and STEEP forces
 
-\[caption id="attachment\_509" align="aligncenter" width="601"\][![Porter's Five Forces and STEEP]({{ site.baseurl }}/assets/porterandsteepforces1.png)](http://binnur.files.wordpress.com/2013/09/porterandsteepforces1.png) Porter's Five Forces and STEEP\[/caption\]
+![Porter's Five Forces and STEEP]({{ site.baseurl }}/img/assets/porterandsteepforces1.png)
 
 Porter's five forces framework is a starting point for analyzing the attractiveness of your market. The interrelationship between the four external actors (potential new entrants, potential substitutes, buyers and suppliers) and the rivalry between the firms within the industry forms the five competitive forces. In summary, the greater the strength of the competitive forces, the higher the intensity of the competition and less profit potential.
 
@@ -70,7 +71,7 @@ You can assess the impact of these forces using a range of –/++ to show how fa
 
 ### Porter's Generic Value Chain
 
-\[caption id="attachment\_499" align="aligncenter" width="459"\][![Porter's Value Chain]({{ site.baseurl }}/assets/porter-genericvaluechain.png)](http://binnur.files.wordpress.com/2013/09/porter-genericvaluechain.png) Porter's Value Chain\[/caption\]
+![Porter's Value Chain]({{ site.baseurl }}/img/assets/porter-genericvaluechain.png)
 
 [Michael Porter](http://en.wikipedia.org/wiki/Michael_Porter "Michael Porter") introduced the concept of generic value chain model that describes a sequence of activities that are common to a range of firms. As shown in the figure, a value chain includes all the activities a product goes through, which also adds value to the product.
 
@@ -86,9 +87,9 @@ Think about the challenges of working with other internal groups in your company
 
 ### Customer Life Cycle or Buyer Experience Cycle
 
-\[caption id="attachment\_504" align="aligncenter" width="660"\][![Buyer Experience Cycle]({{ site.baseurl }}/assets/buyerexperiencecycle.png?w=660)](http://binnur.files.wordpress.com/2013/09/buyerexperiencecycle.png) Buyer Experience Cycle\[/caption\]
+![Buyer Experience Cycle]({{ site.baseurl }}/img/assets/buyerexperiencecycle.png)
 
-\[caption id="attachment\_503" align="alignleft" width="150"\][![Customer Life Cycle]({{ site.baseurl }}/assets/customerlifecycle.png?w=150)](http://binnur.files.wordpress.com/2013/09/customerlifecycle.png) Customer Life Cycle\[/caption\]
+![Customer Life Cycle]({{ site.baseurl }}/img/assets/customerlifecycle.png)
 
 Customer life cycle describes the steps a customer goes through when selecting, purchasing, using, and all the way through disposing of a product or a service. As simple as it sounds, getting a potential customer’s attention in these days is a challenge. Given the availability of competing options and transparency of product information/reviews, firms need to pay extra attention to capturing the potential customers and turning them into paying and loyal customers.
 

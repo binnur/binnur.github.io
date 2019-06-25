@@ -1,7 +1,8 @@
 ---
 layout: post-no-feature
+title: "Field Research Project"
 date: 2013-02-11 02:25:09
-categories: products
+categories: product-management
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
@@ -11,12 +12,12 @@ feature_image: feature-water
 show_related_posts: false
 square_related: recommend-iceland
 ---
-excerpt: 'A research study looking at product development success factors from
+A research study looking at product development success factors from
 the influence of newness: newness of the technology and/or newness of the
-market.' 
+market.
 <!--more-->
 
-[![phoneBooth]({{ site.baseurl }}/assets/phonebooth.jpg)](http://binnur.files.wordpress.com/2013/02/phonebooth.jpg)
+![phoneBooth]({{ site.baseurl }}/img/post-assets/phonebooth.jpg)
 
 \[Originally from the Kitetail Blog\]
 

@@ -1,26 +1,25 @@
 ---
-layout: post-no-feature
+layout: post
+title: "From Waste to Value Product Managers as Activists"
 date: 2013-02-11 02:25:09
-categories: products
+categories: product-management
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
 show_avatar : true
-read_time : 22
+read_time : 10
 feature_image: feature-water
 show_related_posts: false
 square_related: recommend-iceland
 ---
-excerpt: 'Waste is an opportunity: as product managers are the orchastrators for
+'Waste is an opportunity: as product managers are the orchastrators for
 developing solutions that are good for the society AND for the business. In this
 article, we examine how a product manager could reframe waste as an opportunity
-for change. '
+for change.'
 <!--more-->
 
-[![The path]({{ site.baseurl }}/assets/10281027683_55ef83daef_z.jpg)](http://www.flickr.com/photos/binnur_gul/10281027683/ "The path by binnur gul, on Flickr")
-
-> “Change the tool and you can change the world.”  
-> “You all live aboard a spaceship called earth.”  
+> “Change the tool and you can change the world.”
+> “You all live aboard a spaceship called earth.”
 > — Buckminster Fuller
 
 **Waste is a difficult concept as it is complex and subjective.** In product management, especially with the emphasis on lean management and agile development, **waste mainly refers to non-value add activities and anything that hinders an organization’s effectiveness and efficiencies**. However, given our consumer society with the perpetual cycle of _**think+make+distribute+dispose**_, **we need to look at waste more holistically and incorporate the product life cycle into our discussion on waste**. In this post, we will look at **how a product manager could reframe waste as an opportunity by improving the bottom line AND doing good for society**.
@@ -67,7 +66,7 @@ Yes, planned obsolescence is designed into our products. Yes, planned obsolescen
 
 **Technology and product development is about making choices, and choices implies values.** As product and technology managers, we need to extend our values and goals to support society and the environment at large, beyond our business and immediate customers. As a starting point, we can adopt [UN Global Compact](http://www.unglobalcompact.org "UN Global Compact")’s [The 10 Principles](http://www.unglobalcompact.org/aboutthegc/thetenprinciples/ "UN Global Compact: The 10 Principles") for businesses as a guideline for adopting sustainable and socially responsible policies. **The UN Global Compact is a strategic policy initiative for businesses in the areas of [human rights](http://www.unglobalcompact.org/AboutTheGC/TheTenPrinciples/humanRights.html), [labor](http://www.unglobalcompact.org/AboutTheGC/TheTenPrinciples/labour.html), [environment](http://www.unglobalcompact.org/AboutTheGC/TheTenPrinciples/environment.html) and [anti-corruption](http://www.unglobalcompact.org/AboutTheGC/TheTenPrinciples/anti-corruption.html).** Businesses, recognizing the global impact of their actions, can help ensure that markets, commerce, technology and finance advance in ways that benefit economies and societies everywhere.
 
-\[caption id="attachment\_535" align="aligncenter" width="660"\][![The 10 Principles - UN Global Compact]({{ site.baseurl }}/assets/un_globalcompact_10principles.png?w=660)](http://binnur.files.wordpress.com/2013/10/un_globalcompact_10principles.png) The 10 Principles by UN Global Compact\[/caption\]
+![The 10 Principles - UN Global Compact]({{ site.baseurl }}/img/assets/un_globalcompact_10principles.png)
 
 **For practical purposes, this boils down to:**
 
@@ -109,7 +108,7 @@ Today, as product managers, we use techniques such as jobs-to-be-done approach a
 
 ### Waste as an opportunity to add value
 
-> "Every time we’ve made a decision that’s right for the planet, it’s made us more money."  
+> "Every time we’ve made a decision that’s right for the planet, it’s made us more money."
 > — [Yvon Chouinard](http://en.wikipedia.org/wiki/Yvon_Chouinard "Wikipedia: Yvon Chouinard") (Patagonia founder)
 
 Those of you who are familiar with Patagonia and their principles may already know about [Patagonia’s stance that responsible business for the environment and the humanity is good business](http://www.patagonia.com/us/patagonia.go?assetid=1865 "Patagonia - The Responsible Economy Campaign"). And, Patagonia is not alone, many business are recognizing that **green is not**** just a color; it can be the source of savings and innovation**. With that, the **ultimate challenge for product managers is laying out the business case for doing good and demonstrating how these opportunities add value** to the company and society. As a starting point, there are numerous case studies, such with [Walmart and others have show how focusing on reducing waste and cutting cost have improved not only their bottom line, but also cut down their environmental impact](http://www.forbes.com/sites/justingerdes/2012/02/24/how-nike-wal-mart-and-ikea-are-saving-money-and-slashing-carbon-by-shipping-smarter/ "Forbes: How Nike, Wal-Mart And Ikea Save Money And Slash Carbon By Shipping Smarter").
@@ -120,7 +119,7 @@ How do we take the next step from just operational savings to actually developin
 
 **Frameworks, such as lean management's value stream mapping , cradle to cradle design and Life Cycle Assessment (LCA) can be powerful tools for pinpointing where and how we can improve our design, our processes and materials**. The table below is a quick summary of these three tools, however there numerous others you can investigate such as [biomimicry](http://biomimicry.net "Biomimicry 3.8"), [the natural step](http://www.naturalstep.org/usa "The Natural Step"), various product rating and other [design for sustainability standards](http://en.wikipedia.org/wiki/Sustainable_design "Wikipedia: Sustainable Design"). Let us know if there are specific tools and frameworks you use in your work.
 
-\[caption id="attachment\_572" align="aligncenter" width="660"\][![Subset of product material and process analysis methods]({{ site.baseurl }}/assets/productmaterialanalysismethods.png?w=660)](http://binnur.files.wordpress.com/2013/11/productmaterialanalysismethods.png) Subset of product material and process analysis methods\[/caption\]
+![Subset of product material and process analysis methods]({{ site.baseurl }}/img/assets/productmaterialanalysismethods.png)
 
 ### Aim for value — abandon tradeoffs
 
