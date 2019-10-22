@@ -2,7 +2,7 @@
 layout: post-no-feature
 date: 2019-10-21 04:30:00
 title: "Readings: Notes from Google's ML Test Score Paper"
-categories: readings ML-AI
+categories: readings ml-ai
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
