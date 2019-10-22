@@ -2,7 +2,7 @@
 layout: post
 date: 2019-09-24 10:33:45
 title: "Why Building ML/AI Powered Products Hard?"
-categories: ML-AI product-management
+categories: ml-ai product-management
 author_name : binnur
 author_url : /author/binnur
 author_avatar: binnur
