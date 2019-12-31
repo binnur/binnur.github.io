@@ -17,7 +17,7 @@ the influence of newness: newness of the technology and/or newness of the
 market.
 <!--more-->
 
-![phoneBooth]({{ site.baseurl }}/img/post-assets/phonebooth.jpg)
+![phoneBooth]({{ site.baseurl }}/img/assets/phonebooth.jpg)
 
 \[Originally from the Kitetail Blog\]
 
