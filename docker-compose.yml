@@ -7,11 +7,15 @@ services:
     volumes:
         - ./:/srv/jekyll
     environment:
+        # use production to test production changes
         - JEKYLL_ENV=docker
     # force_polling makes the linux box watch for any changes to files, then it will regenerate
     # livereload gets the browser to automatically refresh when changes happen to files
     # command: jekyll serve --force_polling --livereload --watch --verbose
+    # using config file
+    # command: jekyll serve --config _config.dev.yml --watch --verbose
     command: jekyll serve --watch --verbose
+
     ports:
         - 4000:4000
         - 35729:35729
