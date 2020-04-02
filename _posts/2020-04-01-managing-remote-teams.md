@@ -44,7 +44,9 @@ After managing a large team of globally distributed developers, I also came up w
 5. **_Promote leaders with good facilitation skills_** — When bringing diverse teams and experiences into a new project, it helps to have a good facilitator that has everyone’s trust and respect. See ~~the previous post~~ bottom of this article on the characteristics of a good facilitator.
 
 6. **_Risk manage your project_** — Vacations, sick days, and unexpected issues are inevitable. However, these emergencies are ever more heightened when dealing with differences in time zones and communication gaps. With that, risk manages your project by identifying and assigning backup individuals to risky areas or dividing up the work among different sites.
+
 7. **_Rotate meeting times and locations_** — Working across different time zones and locations is disruptive to personal life. So, share the load by rotating meeting times and face-to-face meeting locations.
+
 8. **_Mandate a day of silence_** — Although it is great to have a team that can virtually work 24×6, and maybe even 24×7, the overhead associated with working in a virtual environment can be wearying. So, depending on the intensity of the interactions, declare a day, such as every virtual Friday, as a quiet day. This will give everyone a break, and allow people to recharge their batteries.
 
 
