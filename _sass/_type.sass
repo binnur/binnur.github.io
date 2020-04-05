@@ -1,14 +1,19 @@
 // @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Droid+Serif:400,400italic,700)
-@import url('https://fonts.googleapis.com/css?family=Lora|Montserrat&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap')
+
+//font-family: 'Lora', serif;
+//font-family: 'Montserrat', sans-serif;
 
 $sans : Montserrat, Helvetica, Arial, sans-serif // 'Source Sans Pro', Helvetica, Arial, sans-serif
 $serif : Lora, serif
 
-$text-color : #353535 // #333337
-$light-grey : #b6b6b6
-$light-blue : #4761e2
+$text-color : #343B40 // #353535
+$light-grey : #8898A3   // b6b6b6   // meta color
+$gray-blue : #4A5F6D   // 4761e2
+$bold-color : #AFA9E1
+$link-color : #0C6069
 
-$base-color : $light-blue
+$base-color : $gray-blue
 
 body
     line-height: 1.65
@@ -19,7 +24,7 @@ input,
 select,
 textarea
     color: $text-color
-    font-family: $serif 
+    font-family: $sans
 
 // Text rendering for titles only to insure no performance hit
 .post-preview,
@@ -30,8 +35,8 @@ textarea
     -webkit-font-smoothing: antialiased
 
 p
-    margin-bottom: 30px
-    +font-size(14)  //18
+    margin-bottom: 20px     // 30px
+    +font-size(16)  //18
 
     +breakpoint(sm)
         +font-size(16)  // 20
@@ -50,13 +55,13 @@ a
 
 h1,
 h2
-    font-weight: 700
-    font-family: $sans
+    font-weight: 400
+    font-family: $serif
 
 h1
-    +font-size(38)
-h2
     +font-size(32)
+h2
+    +font-size(28)
     &.favorites
         padding: 10px 0
         color: #b3b3b7
@@ -66,18 +71,20 @@ h2
         border-top: solid 1px #dedede
         +font-size(12)
 h3
-    +font-size(26)
+    +font-size(24)
+    font-weight: 500
 
 
 b
-    font-weight: 700
+    font-weight: 500
 i
+    font-weight: 600
     font-style: italic
 ul,
 ol
+    +font-size(16)      // fixed to render ol font size closely to text size
     margin-bottom: 20px
     padding-left: 20px
-    +font-size(16)
 
     li
         margin: 5px 0

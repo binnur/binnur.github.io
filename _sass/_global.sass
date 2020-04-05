@@ -45,7 +45,7 @@
 
 html,
 body
-    font-size: 62.5%
+    font-size: 62.5%    // =10px as root
 
     +breakpoint(md)
         height: 100%
@@ -61,14 +61,27 @@ img
 main
     display: block
 
+blockquote
+    color: #0C6069
+
+p,
+ul,
+ol,
+li
+    +font-size(16)
+    font-weight: 400
+
+b,
+i
+    font-weight: 500
 
 a
-    color: #999999
+    color: #0C6069  //#999999
     text-decoration: none
 
     &:hover,
     &:active,
     &:focus
         text-decoration: none
-        color: #333
-        border-bottom: solid 1px #999
+        color: #0C6069  //#333
+        border-bottom: solid 1px #0C6069  //#999

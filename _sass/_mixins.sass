@@ -18,7 +18,7 @@
 
 @mixin font-size($value)
     font-size: $value + px
-    font-size: ($value / 10) + rem
+    font-size: ($value / 10) + rem      // ? ul, ol fix for strange chrome bug
 
 @mixin line-height($value)
     line-height: $value + px
@@ -37,7 +37,7 @@
 
 @mixin up-bold
     text-transform: uppercase
-    font-weight: 700
+    font-weight: 500
 
 @mixin placeholder
     &::-webkit-input-placeholder

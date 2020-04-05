@@ -80,7 +80,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 400;
 }
 
 
@@ -89,15 +89,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $link-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($link-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
+        color: $link-color;
         text-decoration: underline;
     }
 }
@@ -105,10 +105,10 @@ a {
 
 
 /**
- * Blockquotes
+ * Blockquotes -- not sure where it is used
  */
 blockquote {
-    color: $grey-color;
+    color: $light-grey;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
