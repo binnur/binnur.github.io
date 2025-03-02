@@ -22,3 +22,6 @@ footer_links:
 # Build settings
 # markdown: kramdown
 host: 0.0.0.0
+
+# Bluesky verification support
+include: [".well-known"]
